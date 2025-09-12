@@ -16,7 +16,7 @@ Berikut adalah data diri saya:
 -   **NIM** : 2341720166
 -   **Kelas** : TI - 3B
 -   **Program Studi**: D4 Teknik Informatika
--   **Institusi** : [Nama Politeknik/Universitas Anda]
+-   **Institusi** : Politeknik Negeri Malang
 
 ---
 
